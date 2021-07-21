@@ -2,7 +2,7 @@
 /**
 * binary_tree_inorder - goes through a binary tree
 * @tree: binary tree
-* @func:
+* @func: function
 * Return: if tree or func is null, do nothing
 */
 
